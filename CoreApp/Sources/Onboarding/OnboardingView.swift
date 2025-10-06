@@ -5,7 +5,7 @@
 //  Created by Rodrigo Sabino on 06/10/25.
 //
 
-import Foundation/Users/rodrigosabino/Documents/rocket/swift/CoreApp/CoreApp.podspec
+import Foundation
 import UIKit
 
 public class OnboardingView: UIView {

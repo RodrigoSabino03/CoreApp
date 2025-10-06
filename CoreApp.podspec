@@ -81,7 +81,7 @@ DESC
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://EXAMPLE/CoreApp.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/RodrigoSabino03/CoreApp.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
